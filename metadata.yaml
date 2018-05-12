@@ -1,0 +1,38 @@
+_repo: The-Four-Corners-Abroad_45026
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smith, Wuanita
+    birthdate: 1866
+    deathdate: 1959
+    gutenberg_agent_id: '31882'
+    url: http://www.gutenberg.org/2009/agents/31882
+covers:
+- cover_type: archival
+  image_path: 45026-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blanchard, Amy Ella
+    alias: Blanchard, Amy E. (Amy Ella)
+    birthdate: 1856
+    deathdate: 1926
+    gutenberg_agent_id: '8406'
+    url: http://www.gutenberg.org/2009/agents/8406
+    wikipedia: http://en.wikipedia.org/wiki/Amy_Ella_Blanchard
+description: ''
+gutenberg_issued: '2014-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45026'
+  lccn: 09022943
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Americans -- Europe -- Juvenile fiction'
+- !lcsh 'Europe -- Description and travel -- Juvenile fiction'
+title: The Four Corners Abroad
+url: http://www.gutenberg.org/ebooks/45026
